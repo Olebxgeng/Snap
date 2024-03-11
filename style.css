@@ -150,6 +150,8 @@ ul li i {
 
 a {
     text-decoration: none;
+    color: var(--Medium-Gray);
+    cursor: pointer;
 }
 
 

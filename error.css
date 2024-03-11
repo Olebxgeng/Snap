@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@100..900&display=swap');
+
+
+*{
+    font-family: "Epilogue", sans-serif;
+}
+
+.error-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.error-container h1{
+    font-weight: 700;
+    font-size: 4rem;
+    margin-bottom: 1rem;
+}
+
+.error-container p{
+    margin-top: 2rem;
+}
+
+span a{
+    text-decoration: none;
+    color: red;
+}
+
+span a{
+    
+}
+
